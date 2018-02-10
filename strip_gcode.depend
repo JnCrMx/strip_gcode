@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511693214 source:d:\jufo\c\strip_gcode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511693214 
+
+1515001363 source:/mnt/hgfs/Projects/JuFo/C/strip_gcode/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<fcntl.h>
+

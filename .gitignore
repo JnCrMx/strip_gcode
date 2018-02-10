@@ -1,0 +1,8 @@
+/Debug/*
+!/Debug/obj/
+/Debug/obj/*
+!/Debug/obj/Debug/
+/Debug/obj/Debug/*
+
+!/Debug/**/makefile
+!/Debug/**/*.mk
