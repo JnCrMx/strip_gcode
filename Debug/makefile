@@ -29,7 +29,7 @@ all: strip_gcode
 strip_gcode: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc  -o "stip_gcode" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc  -o "strip_gcode" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
